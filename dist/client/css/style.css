@@ -1,0 +1,144 @@
+body {
+    overflow: hidden;
+    margin: 0px;
+}
+
+#logo {
+    position: absolute;
+    top: -10px;
+    left: 15px;
+    /* height: 75px;
+    width: 150px; */
+    padding: 2.5px;
+}
+
+#location {
+    position: absolute;
+    top: 4rem;
+    right: 28px;
+    /* height: 75px;
+    width: 150px; */
+    padding: 2.5px;
+}
+
+ #stats {
+    position: absolute;
+    top: 6rem;
+    right: -237px;
+    /* height: 75px;
+    width: 150px; */
+     padding: 2.5px; 
+} 
+
+#information {
+    position: absolute;
+    bottom: 60px;
+    left: 15px;
+    /* height: 75px;
+    width: 150px; */
+    padding: 2.5px;
+}
+
+.drop {
+    position: absolute;
+    height: 24px;
+    width: 63px;
+    background-image: url('/ui/5_Button_D_1.png');
+    bottom: 26px;
+    left: 22px;
+    cursor: pointer;
+}
+
+.drop:hover {
+    background-image: url('/ui/5_Button_D_2.png');
+}
+
+.stash {
+    position: absolute;
+    height: 24px;
+    width: 71px;
+    background-image: url('/ui/6_Button_S_1.png');
+    bottom: 26px;
+    left: 125px;
+    cursor: pointer;
+}
+
+.stash:hover {
+    background-image: url('/ui/6_Button_S_2.png');
+}
+
+.sell {
+    position: absolute;
+    height: 24px;
+    width: 56px;
+    background-image: url('/ui/7_Button_SL_1.png');
+    bottom: 26px;
+    left: 237px;
+    cursor: pointer;
+}
+
+.sell:hover {
+    background-image: url('/ui/7_Button_SL_2.png');
+}
+
+
+.stat-1 {
+    position: absolute;
+    height: 58px;
+    width: 145px;
+    background-image: url('/ui/stat_1.png');
+    top: 285px;
+    right: 150px;
+    cursor: pointer;
+}
+
+.stat-1:hover {
+    background-image: url('/ui/stat_1_2.png');
+}
+
+.stat-2 {
+    position: absolute;
+    height: 58px;
+    width: 145px;
+    background-image: url('/ui/stat_2_1.png');
+    top: 355px;
+    right: 150px;
+    cursor: pointer;
+}
+
+.stat-2:hover {
+    background-image: url('/ui/stat_2_2.png');
+}
+
+.stat-3 {
+    position: absolute;
+    height: 58px;
+    width: 145px;
+    background-image: url('/ui/stat_3_1.png');
+    top: 425px;
+    right: 150px;
+    cursor: pointer;
+}
+
+.stat-3:hover {
+    background-image: url('/ui/stat_3_2.png');
+}
+
+#sell {
+    position: absolute;
+    bottom: 23px;
+    left: 195px;
+    /* height: 75px;
+    width: 150px; */
+    padding: 2.5px;
+}
+
+#chat {
+    position: absolute;
+    bottom: 23px;
+    right: 18px;
+    /* height: 75px;
+    width: 150px; */
+    padding: 2.5px;
+}
+

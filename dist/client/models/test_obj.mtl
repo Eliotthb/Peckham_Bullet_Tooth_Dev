@@ -1,0 +1,561 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 43
+
+newmtl Back_Sight_1_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Back_Sight_1_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Back_Sight_1_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Back_Sight_1_M_Metallic.1001.png
+
+newmtl Back_Sight_2_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Back_Sight_2_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Back_Sight_2_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Back_Sight_2_M_Metallic.1001.png
+
+newmtl Barrel_1_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Barrel_1_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Barrel_1_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Barrel_1_M_Metallic.1001.png
+
+newmtl Barrel_2_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Barrel_2_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Barrel_2_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Barrel_2_M_Metallic.1001.png
+
+newmtl Barrel_3_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Barrel_3_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Barrel_3_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Barrel_3_M_Metallic.1001.png
+
+newmtl Barrel_4_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Barrel_4_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Barrel_4_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Barrel_4_M_Metallic.1001.png
+
+newmtl Barrel_5_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Barrel_5_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Barrel_5_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Barrel_5_M_Metallic.1001.png
+
+newmtl Barrel_6_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Barrel_6_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Barrel_6_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Barrel_6_M_Metallic.1001.png
+
+newmtl Barrel_7_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Barrel_7_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Barrel_7_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Barrel_7_M_Metallic.1001.png
+
+newmtl Barrel_8_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Barrel_8_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Barrel_8_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Barrel_8_M_Metallic.1001.png
+
+newmtl Barrel_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Barrel_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Barrel_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Barrel_M_Metallic.1001.png
+
+newmtl Centre_Pin_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Centre_Pin_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Centre_Pin_M_Roughness.1001.png
+refl materials\\magnum\Magnum_high_Centre_Pin_M_Metallic.1001.png
+
+newmtl Centrre_Rect_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Centrre_Rect_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Centrre_Rect_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Centrre_Rect_M_Metallic.1001.png
+
+newmtl Chamber_1_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Chamber_1_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Chamber_1_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Chamber_1_M_Metallic.1001.png
+
+newmtl Chamber_2_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Chamber_2_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Chamber_2_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Chamber_2_M_Metallic.1001.png
+
+newmtl Grip_2_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Grip_2_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Grip_2_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Grip_2_M_Metallic.1001.png
+
+newmtl Grip_3_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Grip_3_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Grip_3_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Grip_3_M_Metallic.1001.png
+
+newmtl Grip_M_1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Grip_M_1_BaseColor.1001.png
+map_Ns materials\\magnum\\\\Magnum_high_Grip_M_1_Roughness.1001.png
+refl materials\\magnum\\\\Magnum_high_Grip_M_1_Metallic.1001.png
+
+newmtl MIddle_Clip_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_MIddle_Clip_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_MIddle_Clip_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_MIddle_Clip_M_Metallic.1001.png
+
+newmtl Main_1_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd j_materials\\magnum\\Magnum_high_Main_1_M_BaseColor.1001.jpg
+map_Ns j_materials\\magnum\\Magnum_high_Main_1_M_Roughness.1001.jpg
+refl j_materials\\magnum\\Magnum_high_Main_1_M_Metallic.1001.jpg
+
+newmtl Main_2_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Main_2_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Main_2_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Main_2_M_Metallic.1001.png
+
+newmtl Pullback_1_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Pullback_1_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Pullback_1_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Pullback_1_M_Metallic.1001.png
+
+newmtl Pullback_2_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Pullback_2_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Pullback_2_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Pullback_2_M_Metallic.1001.png
+
+newmtl Rail_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Rail_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Rail_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Rail_M_Metallic.1001.png
+
+newmtl Screw_10_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_10_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_10_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Screw_10_M_Metallic.1001.png
+
+newmtl Screw_11_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_11_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_11_M_Roughness.1001.png
+refl materials\\magnum\Magnum_high_Screw_11_M_Metallic.1001.png
+
+newmtl Screw_12_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_12_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_12_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Screw_12_M_Metallic.1001.png
+
+newmtl Screw_13_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_13_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_13_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Screw_13_M_Metallic.1001.png
+
+newmtl Screw_1_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_1_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_1_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Screw_1_M_Metallic.1001.png
+
+newmtl Screw_2_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_2_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_2_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Screw_2_M_Metallic.1001.png
+
+newmtl Screw_3_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_3_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_3_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Screw_3_M_Metallic.1001.png
+
+newmtl Screw_4_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_4_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_4_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Screw_4_M_Metallic.1001.png
+
+newmtl Screw_5_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_5_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_5_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Screw_5_M_Metallic.1001.png
+
+newmtl Screw_6_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_6_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_6_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Screw_6_M_Metallic.1001.png
+
+newmtl Screw_7_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_7_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_7_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Screw_7_M_Metallic.1001.png
+
+newmtl Screw_8_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_8_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_8_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Screw_8_M_Metallic.1001.png
+
+newmtl Screw_9_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Screw_9_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Screw_9_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Screw_9_M_Metallic.1001.png
+
+newmtl Sight_Cylinder_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Sight_Cylinder_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Sight_Cylinder_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Sight_Cylinder_M_Metallic.1001.png
+
+newmtl Sight_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Sight_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Sight_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Sight_M_Metallic.1001.png
+
+newmtl Sight_Screw_1_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Sight_Screw_1_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Sight_Screw_1_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Sight_Screw_1_M_Metallic.1001.png
+
+newmtl Sight_Screw_2_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Sight_Screw_2_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Sight_Screw_2_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Sight_Screw_2_M_Metallic.1001.png
+
+newmtl Trigger_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Trigger_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Trigger_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Trigger_M_Metallic.1001.png
+
+newmtl Trigger_Screw_M
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\magnum\\Magnum_high_Trigger_Screw_M_BaseColor.1001.png
+map_Ns materials\\magnum\\Magnum_high_Trigger_Screw_M_Roughness.1001.png
+refl materials\\magnum\\Magnum_high_Trigger_Screw_M_Metallic.1001.png
